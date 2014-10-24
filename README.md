@@ -1,4 +1,4 @@
 music-collection-sync
 =====================
 
-This is my repository
+Discover if your local music database is sync'ed
